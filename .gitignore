@@ -1,6 +1,4 @@
 .DS_Store
-themes.db
 *.log
 node_modules/
 public/
-hexo/themes/melody/
